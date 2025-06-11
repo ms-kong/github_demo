@@ -1,7 +1,7 @@
 public class Buggy {
     static int add(int a, int b)
     {
-        System.out.println("Adding !!!!! YPIIPEEEE!!");
+        System.out.println("Adding yippee");
         return a + b;
     }
     public static void main(String[] args) {
